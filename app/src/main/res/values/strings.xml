@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TWeather</string>
+    <string name="city_name">Đà Nẵng</string>
+    <string name="current_date">Feb 26, 2019</string>
+    <string name="daily">DAILY</string>
+    <string name="hourly">HOURLY</string>
+    <string name="save_location">Save Location</string>
+    <string name="setting">Setting</string>
 </resources>
